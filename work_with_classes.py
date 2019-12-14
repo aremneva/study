@@ -1,3 +1,6 @@
+"""
+Работа с классами
+"""
 class Transport:
     def __init__(self,type,carrying):
         self.type = type
