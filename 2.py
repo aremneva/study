@@ -1,0 +1,10 @@
+from tkinter import*
+root=Tk()
+root.geometry('300x400')
+rock=Button(text='Камень')
+rock.pack()
+scsr=Button(text='Ножницы')
+scsr.pack()
+paper=Button(text='Бумага')
+paper.pack()
+root.mainloop()
