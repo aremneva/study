@@ -1,1 +1,1 @@
-# This project contains scripts for lessons and labaratories
+# This project contains scripts for lessons and laboratories
